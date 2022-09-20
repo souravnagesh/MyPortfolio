@@ -20,7 +20,7 @@ const ProjectCardData =[
         imgsrc:pro6,
         title:"My-Portfolio",
         text: 'Created a portfolio website using React JS',
-        source:'https://github.com/souravnagesh/MyPortfolio.git'    
+        source:'https://github.com/souravnagesh/My-Portfolio.git'    
     }
 ]
 
